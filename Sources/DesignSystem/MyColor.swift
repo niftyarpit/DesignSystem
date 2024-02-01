@@ -8,5 +8,5 @@
 import Foundation
 
 public struct MyColor {
-    public let red = "Red"
+    public static let red = "Red"
 }
