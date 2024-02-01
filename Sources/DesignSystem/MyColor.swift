@@ -10,3 +10,4 @@ import Foundation
 struct MyColor {
     let red = "Red"
 }
+
