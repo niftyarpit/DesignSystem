@@ -7,7 +7,6 @@
 
 import Foundation
 
-struct MyColor {
-    let red = "Red"
+public struct MyColor {
+    public let red = "Red"
 }
-
